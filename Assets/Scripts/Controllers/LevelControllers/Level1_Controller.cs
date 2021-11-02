@@ -192,6 +192,7 @@ public class Level1_Controller : MonoBehaviour
         if (SimpleInput.GetKeyDown(KeyCode.E))
         {
             //sedated
+            if(GameObject.FindGameObjectWithTag("L1Nurse"))
             GameObject.FindGameObjectWithTag("L1Nurse").GetComponent<L1NurseScript>().DisableSelf();
             //skip timer
             sedationTimer = 0;
