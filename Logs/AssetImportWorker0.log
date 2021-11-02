@@ -1,0 +1,1740 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 12252 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/GameDev/The-Haunting-SinglePlayer-master
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50847
+Successfully changed project path to: D:/GameDev/The-Haunting-SinglePlayer-master
+D:/GameDev/The-Haunting-SinglePlayer-master
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 93.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GameDev/The-Haunting-SinglePlayer-master/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c81)
+    Vendor:   
+    VRAM:     1977 MB
+    Driver:   27.21.14.6627
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56592
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/2020.3.8f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/2020.3.8f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.004065 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 90.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.686 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004654 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 114.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.416 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 144.5 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 3718.
+Total: 3.474100 ms (FindLiveObjects: 0.319800 ms CreateObjectMapping: 0.189800 ms MarkObjects: 2.774100 ms  DeleteObjects: 0.188900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Rendering/Pipeline.asset
+  artifactKey: Guid(5d205951317dfca408e6ef3dddb9e682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rendering/Pipeline.asset using Guid(5d205951317dfca408e6ef3dddb9e682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2807bc8b18a0170cab64943cd8e98236') in 0.043562 seconds
+  Import took 0.052006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Rendering/lighting.asset
+  artifactKey: Guid(2c2da4df5bf0a6749b626d7340d36d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rendering/lighting.asset using Guid(2c2da4df5bf0a6749b626d7340d36d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eda593cf6ae32b3322bc386d7f1d21c') in 0.012653 seconds
+  Import took 0.022835 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 4.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.0 MB.
+System memory in use after: 74.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3718.
+Total: 3.848900 ms (FindLiveObjects: 0.344600 ms CreateObjectMapping: 0.228700 ms MarkObjects: 2.867000 ms  DeleteObjects: 0.407200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.500 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.1 MB.
+System memory in use after: 136.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3723.
+Total: 7.359000 ms (FindLiveObjects: 1.378300 ms CreateObjectMapping: 0.544900 ms MarkObjects: 5.261500 ms  DeleteObjects: 0.172200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.329884 seconds.
+  path: Assets/Art/effects/12.jpg
+  artifactKey: Guid(59831a0baebe0c548a82c31ebd3ac0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/effects/12.jpg using Guid(59831a0baebe0c548a82c31ebd3ac0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e7de675fa60e9773438b649df7531b') in 0.199923 seconds
+  Import took 0.210008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006688 seconds.
+  path: Assets/Art/effects/12.jpg
+  artifactKey: Guid(59831a0baebe0c548a82c31ebd3ac0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/effects/12.jpg using Guid(59831a0baebe0c548a82c31ebd3ac0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e7de675fa60e9773438b649df7531b') in 0.017097 seconds
+  Import took 0.025383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.058768 seconds.
+  path: Assets/Rendering/Global Volume Profile.asset
+  artifactKey: Guid(f8779160b18193f479dd300f980bb5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rendering/Global Volume Profile.asset using Guid(f8779160b18193f479dd300f980bb5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0adc867b4a99960bf158ea88de49421c') in 0.028707 seconds
+  Import took 0.039260 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004274 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.296 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.1 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3732.
+Total: 3.078100 ms (FindLiveObjects: 0.472000 ms CreateObjectMapping: 0.214500 ms MarkObjects: 2.241300 ms  DeleteObjects: 0.149200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005339 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.657 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.2 MB.
+System memory in use after: 139.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3737.
+Total: 4.740300 ms (FindLiveObjects: 0.392000 ms CreateObjectMapping: 0.272900 ms MarkObjects: 3.914100 ms  DeleteObjects: 0.159600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10082.688486 seconds.
+  path: Assets/Scenes/Stages/Ending.unity
+  artifactKey: Guid(085c3bc3ecc5f6e4b9068b0213fdc33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stages/Ending.unity using Guid(085c3bc3ecc5f6e4b9068b0213fdc33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b11f8880d2590c8acb8051d80226b62') in 0.068611 seconds
+  Import took 0.076735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.983305 seconds.
+  path: Assets/Scenes/Stages/Stage 1
+  artifactKey: Guid(e5821fe8b87ec2942aa4bcffe07a5e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stages/Stage 1 using Guid(e5821fe8b87ec2942aa4bcffe07a5e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '708c3a339a59d76311f7e07c2220fd6c') in 0.013036 seconds
+  Import took 0.021452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.126046 seconds.
+  path: Assets/Scenes/Stages/Stage 1.unity
+  artifactKey: Guid(e6c8ef84f2cc97f43a75998eea91c8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stages/Stage 1.unity using Guid(e6c8ef84f2cc97f43a75998eea91c8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000344ca67f53861eb5c67498b71e832') in 0.015165 seconds
+  Import took 0.022177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1506.030390 seconds.
+  path: Assets/Art/effects/11.jpg
+  artifactKey: Guid(7e8f0b3f04c1c3247898f761cdfe7fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/effects/11.jpg using Guid(7e8f0b3f04c1c3247898f761cdfe7fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f93bdcd2f1fb4363ae87d3d94c40498') in 0.068629 seconds
+  Import took 0.077226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Art/effects/11.jpg
+  artifactKey: Guid(7e8f0b3f04c1c3247898f761cdfe7fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/effects/11.jpg using Guid(7e8f0b3f04c1c3247898f761cdfe7fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f93bdcd2f1fb4363ae87d3d94c40498') in 0.015628 seconds
+  Import took 0.022343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.476371 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/BoxBright.png
+  artifactKey: Guid(ab6d288fac925ae48bbeb5e02d83dce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/BoxBright.png using Guid(ab6d288fac925ae48bbeb5e02d83dce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872bb5e6cf8788cae84a260ad3f75da0') in 0.023183 seconds
+  Import took 0.030665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/BoxText.png
+  artifactKey: Guid(761ff1491b1f86c4d924261c553ac9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/BoxText.png using Guid(761ff1491b1f86c4d924261c553ac9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61cec2fea09291eba4aedf9f1f35bf28') in 0.014009 seconds
+  Import took 0.019759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/BoxOrange.png
+  artifactKey: Guid(13548d8d0fcb5c44b8044ce08a99c697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/BoxOrange.png using Guid(13548d8d0fcb5c44b8044ce08a99c697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8dddfe03fbb3221def6df71a64cccc8') in 0.016150 seconds
+  Import took 0.021781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/BoxTextHover.png
+  artifactKey: Guid(13154691f37c1884c865b54d8bd29d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/BoxTextHover.png using Guid(13154691f37c1884c865b54d8bd29d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d9d02332abaaa2f58c7216fc2966d3') in 0.016041 seconds
+  Import took 0.022935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/BoxOrangeRed.png
+  artifactKey: Guid(72708a25103c3fe4f9074f7296e86b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/BoxOrangeRed.png using Guid(72708a25103c3fe4f9074f7296e86b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c532c3c580434e007650adb6d179024') in 0.014153 seconds
+  Import took 0.019829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.490750 seconds.
+  path: Assets/Fonts/CactusFlowerOpenSGOT-Regular/CactusFlowerOpenSGOT-Regular SDF.asset
+  artifactKey: Guid(e9924a6becb134e4b81bc1a8636c5c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/CactusFlowerOpenSGOT-Regular/CactusFlowerOpenSGOT-Regular SDF.asset using Guid(e9924a6becb134e4b81bc1a8636c5c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57aba4949c5bd7a55198f5f35ba48ff2') in 0.234600 seconds
+  Import took 0.242701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.118858 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Code/Editor/CopyIcon.png
+  artifactKey: Guid(d1228d93299ce47a8a5ac1a33513aeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Code/Editor/CopyIcon.png using Guid(d1228d93299ce47a8a5ac1a33513aeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ddf5541902e93027a72bf564e7bb49') in 0.026613 seconds
+  Import took 0.033666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Code/Editor/CopyIconPro.png
+  artifactKey: Guid(81b8e0c5ffa3345b7aa3af3a2c0257ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Code/Editor/CopyIconPro.png using Guid(81b8e0c5ffa3345b7aa3af3a2c0257ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba488538995ad133613576797dad8205') in 0.014195 seconds
+  Import took 0.019793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Code/Editor/CopyIcon.png
+  artifactKey: Guid(d1228d93299ce47a8a5ac1a33513aeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Code/Editor/CopyIcon.png using Guid(d1228d93299ce47a8a5ac1a33513aeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ddf5541902e93027a72bf564e7bb49') in 0.007665 seconds
+  Import took 0.013255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013130 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Code/Editor/CopyIconPro.png
+  artifactKey: Guid(81b8e0c5ffa3345b7aa3af3a2c0257ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Code/Editor/CopyIconPro.png using Guid(81b8e0c5ffa3345b7aa3af3a2c0257ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba488538995ad133613576797dad8205') in 0.009170 seconds
+  Import took 0.016355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.434882 seconds.
+  path: Assets/Fonts/digital-7/digital-7 SDF.asset
+  artifactKey: Guid(ac278c15f5d90aa40ac98a8c5b8b5888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/digital-7/digital-7 SDF.asset using Guid(ac278c15f5d90aa40ac98a8c5b8b5888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fa00564bab0a6ff6b9aa1ae235cbe3f') in 0.044513 seconds
+  Import took 0.052985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000983 seconds.
+  path: Assets/Fonts/digital-7/digital-7 SDF.asset
+  artifactKey: Guid(ac278c15f5d90aa40ac98a8c5b8b5888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/digital-7/digital-7 SDF.asset using Guid(ac278c15f5d90aa40ac98a8c5b8b5888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fa00564bab0a6ff6b9aa1ae235cbe3f') in 0.021225 seconds
+  Import took 0.027885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.127374 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Dungeon_Tileset_at.png
+  artifactKey: Guid(b40888017d8f1044c9991cb3c2dd919f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Dungeon_Tileset_at.png using Guid(b40888017d8f1044c9991cb3c2dd919f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6b769c719cd45e1a7e355b75e879cb') in 0.032927 seconds
+  Import took 0.039851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/enemy_afterdead_explosion_anim_f1.png
+  artifactKey: Guid(f80a71fe2021d524faea1b9959eaa223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/enemy_afterdead_explosion_anim_f1.png using Guid(f80a71fe2021d524faea1b9959eaa223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b964573e2ebc614077ff0702e17d0b91') in 0.018825 seconds
+  Import took 0.024588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/enemy_afterdead_explosion_anim_f0.png
+  artifactKey: Guid(7e6f19aebb383e74c82a43c5e41b9b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/enemy_afterdead_explosion_anim_f0.png using Guid(7e6f19aebb383e74c82a43c5e41b9b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3741dd27e0b5efb96a4f800b5ce3b7') in 0.021152 seconds
+  Import took 0.026865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4141cd07f3c1ef42e85e3b0f5df511f7') in 0.017824 seconds
+  Import took 0.024089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/enemy_afterdead_explosion_anim_f2.png
+  artifactKey: Guid(08e8978c5b3ba294c988ac7d5873823f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/enemy_afterdead_explosion_anim_f2.png using Guid(08e8978c5b3ba294c988ac7d5873823f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f09ac1f328f5269a628641952e4f0b2d') in 0.018417 seconds
+  Import took 0.024673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.511412 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/enemy_afterdead_explosion_anim_f3.png
+  artifactKey: Guid(0b0a0af8edd0d894bb4d2f1510def4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/enemy_afterdead_explosion_anim_f3.png using Guid(0b0a0af8edd0d894bb4d2f1510def4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e2ca1408d432a4c3cc000f6dd19054') in 0.018186 seconds
+  Import took 0.025499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f2.png
+  artifactKey: Guid(19d87c09af778cd4fb73dfd7a66aa55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f2.png using Guid(19d87c09af778cd4fb73dfd7a66aa55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7170a350d0753e1be661d346b7a73ad') in 0.021184 seconds
+  Import took 0.027129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f0.png
+  artifactKey: Guid(970e672f81f82e14680830face38d90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f0.png using Guid(970e672f81f82e14680830face38d90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002ae6cb709d6276dbba7f912b40a738') in 0.022770 seconds
+  Import took 0.029733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f1.png
+  artifactKey: Guid(80a648874d1623d40bc4d75e6b95fc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f1.png using Guid(80a648874d1623d40bc4d75e6b95fc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c48885b98eb2894798fbd0dc5e3f88e') in 0.025757 seconds
+  Import took 0.031553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f3.png
+  artifactKey: Guid(da56084bc970bbf46aa2b532127e198a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f3.png using Guid(da56084bc970bbf46aa2b532127e198a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73ce38c775f5c59a897174f9c8be8db3') in 0.021410 seconds
+  Import took 0.027206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/enemy_afterdead_explosion_anim_spritesheet.png
+  artifactKey: Guid(4446210fb35616f4898970641f67086b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/enemy_afterdead_explosion_anim_spritesheet.png using Guid(4446210fb35616f4898970641f67086b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9ef988d70c6a43c1cdda29e09e59900') in 0.036182 seconds
+  Import took 0.042364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f5.png
+  artifactKey: Guid(ed3bdb80f61a1764fa3660a560f57485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f5.png using Guid(ed3bdb80f61a1764fa3660a560f57485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a28d554879508ace26cf0537b9ff95a3') in 0.020151 seconds
+  Import took 0.025911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/GIF/fire-skull.gif
+  artifactKey: Guid(57200abf64c380a43ab51d2703ee0df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/GIF/fire-skull.gif using Guid(57200abf64c380a43ab51d2703ee0df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137e1ffca8fd4e18733155affd043cf1') in 0.026158 seconds
+  Import took 0.032437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/PSD/fire-skull-no-fire.psd
+  artifactKey: Guid(8a5b0c9281ff2704faa42c5b7f661bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/PSD/fire-skull-no-fire.psd using Guid(8a5b0c9281ff2704faa42c5b7f661bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12eff687c71d91f5c7114df281a98bb9') in 0.024973 seconds
+  Import took 0.030735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/PNG/fire-skull-no-fire.png
+  artifactKey: Guid(b09248623eed59c4ca6eea70f6d143e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/PNG/fire-skull-no-fire.png using Guid(b09248623eed59c4ca6eea70f6d143e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe9a851b30431a46c09c844c64e79eb') in 0.024368 seconds
+  Import took 0.030352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f6.png
+  artifactKey: Guid(ddd0351637293b345b561a741755a948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f6.png using Guid(ddd0351637293b345b561a741755a948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4000f7b0b4141c823c6b8ab2adf8b8cb') in 0.017680 seconds
+  Import took 0.023462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Hell-Beast-Files/GIF/fire-ball.gif
+  artifactKey: Guid(2de1faa6a29a0c4469b0c374845bf091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Hell-Beast-Files/GIF/fire-ball.gif using Guid(2de1faa6a29a0c4469b0c374845bf091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8e50f0e8f4cbfe366877eb6069c08d') in 0.022562 seconds
+  Import took 0.028328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/PNG/fire-skull.png
+  artifactKey: Guid(9c7a08bb55e4baf46bf6c842547c8c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/PNG/fire-skull.png using Guid(9c7a08bb55e4baf46bf6c842547c8c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf6470a47d33e2659c4b96663aa80619') in 0.018396 seconds
+  Import took 0.025315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/GIF/fire-skull-no-fire.gif
+  artifactKey: Guid(fbe3c87572582e34da90077739dcb707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/GIF/fire-skull-no-fire.gif using Guid(fbe3c87572582e34da90077739dcb707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330c9dcedf4a5b282db33686ac88dcd9') in 0.018216 seconds
+  Import took 0.025851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Hell-Beast-Files/PNG/fire-ball.png
+  artifactKey: Guid(9f53384788e57554789c71adfb1adbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Hell-Beast-Files/PNG/fire-ball.png using Guid(9f53384788e57554789c71adfb1adbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c944657a6f841557d90650fbaa792f1') in 0.024312 seconds
+  Import took 0.030734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_spritesheet.png
+  artifactKey: Guid(ae6832e334aeb0f4fa757bc60ee31018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_spritesheet.png using Guid(ae6832e334aeb0f4fa757bc60ee31018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd06c8465cc5fff170af4d5678765bd') in 0.020512 seconds
+  Import took 0.026652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f4.png
+  artifactKey: Guid(98de74c56054b624d84947d8496bd596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/effects (new)/explosion_anim_f4.png using Guid(98de74c56054b624d84947d8496bd596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ead4e252ef6aba4e486e469d14849e06') in 0.022603 seconds
+  Import took 0.028613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/PSD/fire-skull.psd
+  artifactKey: Guid(3b0ae7d50dc4bff46b670ab0242e79b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/PSD/fire-skull.psd using Guid(3b0ae7d50dc4bff46b670ab0242e79b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ada8e534bd316714dc305067b3eb46') in 0.019169 seconds
+  Import took 0.024995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011602 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/PSD/fire-skull.psd
+  artifactKey: Guid(3b0ae7d50dc4bff46b670ab0242e79b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Fire-Skull-Files/PSD/fire-skull.psd using Guid(3b0ae7d50dc4bff46b670ab0242e79b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ada8e534bd316714dc305067b3eb46') in 0.016765 seconds
+  Import took 0.023630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.526725 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flag/flag_1.png
+  artifactKey: Guid(673085208e377444bb985645af92ee9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flag/flag_1.png using Guid(673085208e377444bb985645af92ee9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4084dbd3a50e7a05b8f22f5dd1cb3e') in 0.017550 seconds
+  Import took 0.024089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flag/flag_2.png
+  artifactKey: Guid(cad005e1eb6965647a6cc7f668ef6f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flag/flag_2.png using Guid(cad005e1eb6965647a6cc7f668ef6f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4a725adb6733f15f46d505a35ad1f0a') in 0.019363 seconds
+  Import took 0.025260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/props_itens/flag_red.png
+  artifactKey: Guid(38c04d3ca50fc5f49a19d53bd9bcdb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/props_itens/flag_red.png using Guid(38c04d3ca50fc5f49a19d53bd9bcdb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f4b1c4754101c33d17e1d8d03333a06') in 0.022584 seconds
+  Import took 0.029395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flag/flag_3.png
+  artifactKey: Guid(512978450e509f24f8aa28e14decd88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flag/flag_3.png using Guid(512978450e509f24f8aa28e14decd88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e315d8a5ff01d6ca21268a20c0533c2') in 0.026431 seconds
+  Import took 0.032283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flag/flag_4.png
+  artifactKey: Guid(3795e171e0f034a4c861f4ee45f8a02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flag/flag_4.png using Guid(3795e171e0f034a4c861f4ee45f8a02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37aafeee823bc0d0ef896948dab4c018') in 0.021235 seconds
+  Import took 0.028935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_1_2.png
+  artifactKey: Guid(c7b835eff4849cf42b7ce8423387f6ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_1_2.png using Guid(c7b835eff4849cf42b7ce8423387f6ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8172fa772a13395ac9e38b87c2c4c8') in 0.024917 seconds
+  Import took 0.030898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_1_4.png
+  artifactKey: Guid(95ba7fa0b8a4785469352bccba54bdda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_1_4.png using Guid(95ba7fa0b8a4785469352bccba54bdda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa34e72a7020ba16b66a1d1f7c78ee84') in 0.017932 seconds
+  Import took 0.023778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/props_itens/flag_green.png
+  artifactKey: Guid(7ebe9f5ff30f00b46af2388e66af7fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/props_itens/flag_green.png using Guid(7ebe9f5ff30f00b46af2388e66af7fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53f9ea620f53d6db22dd0a732f0ae476') in 0.023723 seconds
+  Import took 0.030488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_1_4.png
+  artifactKey: Guid(6d5c04f4999ca8c41ad70ed0e47eb43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_1_4.png using Guid(6d5c04f4999ca8c41ad70ed0e47eb43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b41de9fc6c7e6651b619584302300d1') in 0.018042 seconds
+  Import took 0.023711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_1_1.png
+  artifactKey: Guid(4ccaafee0e7d6f14d96b77a62a123d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_1_1.png using Guid(4ccaafee0e7d6f14d96b77a62a123d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa4e3cbb29876c72515c7faf4d92a425') in 0.021261 seconds
+  Import took 0.027305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_2_3.png
+  artifactKey: Guid(626048ce498b0524bb9a8ed685002f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_2_3.png using Guid(626048ce498b0524bb9a8ed685002f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a7071a5cdd5ccfceb8a427160d691a') in 0.020418 seconds
+  Import took 0.026498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_1_3.png
+  artifactKey: Guid(9e9dc448168ef774eb0b1e67cd1e58ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_1_3.png using Guid(9e9dc448168ef774eb0b1e67cd1e58ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e5ad6a9c54c8d38e9080ef7ae358622') in 0.025324 seconds
+  Import took 0.031657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_2_4.png
+  artifactKey: Guid(a67b2ce751e9aaf4a961ed166e07eb29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_2_4.png using Guid(a67b2ce751e9aaf4a961ed166e07eb29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb0e9a8bfae395a6000829000eb3db31') in 0.022631 seconds
+  Import took 0.029154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_2_2.png
+  artifactKey: Guid(14244f02b21fcdc459d2b7d352b49574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_2_2.png using Guid(14244f02b21fcdc459d2b7d352b49574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cdcce3f9b56681726461718b1168d0d') in 0.020515 seconds
+  Import took 0.026526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_1_1.png
+  artifactKey: Guid(f17fee33b873460498e220d5461bf4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_1_1.png using Guid(f17fee33b873460498e220d5461bf4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c151c10471f2f0becb6c7aabb9da16') in 0.022143 seconds
+  Import took 0.028554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_2_1.png
+  artifactKey: Guid(1d8a0b8862a459042ae5ee74b71f668a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_2_1.png using Guid(1d8a0b8862a459042ae5ee74b71f668a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1222ab9e58fbace8146fff4ec0603efd') in 0.019119 seconds
+  Import took 0.024742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_1_3.png
+  artifactKey: Guid(cd730d90a9f0afa428aad65a6f79c7e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_1_3.png using Guid(cd730d90a9f0afa428aad65a6f79c7e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87036de4ab6cd7c65931ffed06cd3898') in 0.020877 seconds
+  Import took 0.027825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_1_2.png
+  artifactKey: Guid(871820d2062721d4c9d487fdabd7393b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_1_2.png using Guid(871820d2062721d4c9d487fdabd7393b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9efc2a06b3fd40ca24203bb0974863b') in 0.017088 seconds
+  Import took 0.023231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.505589 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_2_1.png
+  artifactKey: Guid(18dec110aae6422488fa65330732bc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_2_1.png using Guid(18dec110aae6422488fa65330732bc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06251f2216471b7ec6eb1fd62e5eca8f') in 0.018176 seconds
+  Import took 0.024815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_2_3.png
+  artifactKey: Guid(cc67a32fe06b08847ba8827015a0ceaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_2_3.png using Guid(cc67a32fe06b08847ba8827015a0ceaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f45a6633d854c7998cede461f8d9a0') in 0.018871 seconds
+  Import took 0.024489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_3_2.png
+  artifactKey: Guid(32e8eadcce075c843aa2e23062591aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_3_2.png using Guid(32e8eadcce075c843aa2e23062591aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b691fe4e203669bd364b7f7982b04b') in 0.023056 seconds
+  Import took 0.029559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_3_1.png
+  artifactKey: Guid(5f97e45d32c7c984180c0e8f888d367e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_3_1.png using Guid(5f97e45d32c7c984180c0e8f888d367e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a1a894f5cb051d5bda1114537971f4f') in 0.024365 seconds
+  Import took 0.030667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_2_4.png
+  artifactKey: Guid(86e05ff21f080354390c51547f2149aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_2_4.png using Guid(86e05ff21f080354390c51547f2149aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '960fa6e2ef2c019304508b1106a9fb01') in 0.019097 seconds
+  Import took 0.025029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_2_2.png
+  artifactKey: Guid(44fb126fd8a856a46acebcccaee58801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_2_2.png using Guid(44fb126fd8a856a46acebcccaee58801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ee91377e4bfd33f60253f488fb51e64') in 0.023239 seconds
+  Import took 0.029661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_3_4.png
+  artifactKey: Guid(f35191812e73e154888f625df732de02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_3_4.png using Guid(f35191812e73e154888f625df732de02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb8697ca7697634cbc68cfcc4f00999') in 0.017877 seconds
+  Import took 0.024047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_4_3.png
+  artifactKey: Guid(6d707b32d48b9ec4c8122e5ec4f83a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_4_3.png using Guid(6d707b32d48b9ec4c8122e5ec4f83a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ffacda64f2f49fef335d55591f19726') in 0.022244 seconds
+  Import took 0.028107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Plugins/SimpleInput/Sprites/FlatDark/flatDark06.png
+  artifactKey: Guid(ec82f38f33c98ad4e9b63e173baec013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/SimpleInput/Sprites/FlatDark/flatDark06.png using Guid(ec82f38f33c98ad4e9b63e173baec013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0036816f76462ea09ca0e3df470626d8') in 0.022102 seconds
+  Import took 0.028555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Plugins/SimpleInput/Sprites/FlatLight/Arrows/flatLight23.png
+  artifactKey: Guid(0d4427e968e720644b7c4a42a70c0854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/SimpleInput/Sprites/FlatLight/Arrows/flatLight23.png using Guid(0d4427e968e720644b7c4a42a70c0854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8fbeae0a4181cb8827cf269144a430b') in 0.021961 seconds
+  Import took 0.027931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Plugins/SimpleInput/Sprites/FlatLight/Arrows/flatLight22.png
+  artifactKey: Guid(cbe53ee11b8b16b4986e16fc2c13abcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/SimpleInput/Sprites/FlatLight/Arrows/flatLight22.png using Guid(cbe53ee11b8b16b4986e16fc2c13abcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c37b6cc81d93913133fbeafc645eeb5') in 0.021517 seconds
+  Import took 0.027487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_1.png
+  artifactKey: Guid(a92cad2cceadc3a41a029f8bfaa7c192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_1.png using Guid(a92cad2cceadc3a41a029f8bfaa7c192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213cc81b4d193b16d5c3175fff028062') in 0.025593 seconds
+  Import took 0.033179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000542 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_3_3.png
+  artifactKey: Guid(c629d6b37d5f7f447ae728a53901eeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_3_3.png using Guid(c629d6b37d5f7f447ae728a53901eeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd93f6522fe0008d643822f8d2ef33667') in 0.021487 seconds
+  Import took 0.027416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_2.png
+  artifactKey: Guid(be4a36e2b36f9ad4d9a6ebe3ad4bc9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_2.png using Guid(be4a36e2b36f9ad4d9a6ebe3ad4bc9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d04710885fa031e9b98dcdeba2a457') in 0.017534 seconds
+  Import took 0.023279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_4_4.png
+  artifactKey: Guid(3f924c1d9234ecb429c0f4efffa2dab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_4_4.png using Guid(3f924c1d9234ecb429c0f4efffa2dab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f01e782f74636d87300696739c50af4') in 0.021957 seconds
+  Import took 0.028061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_4_1.png
+  artifactKey: Guid(2001b1eea6bf7c84c9faf35322022849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_4_1.png using Guid(2001b1eea6bf7c84c9faf35322022849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78b3de4f3d7d03759ff36de9b5e744af') in 0.018024 seconds
+  Import took 0.024055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_4_2.png
+  artifactKey: Guid(93ee91209507599419221237fdf78080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_4_2.png using Guid(93ee91209507599419221237fdf78080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3a606ca9eef7815c00cd17b68f215c') in 0.019303 seconds
+  Import took 0.026041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Plugins/SimpleInput/Sprites/FlatDark/Joystick/flatDark00.png
+  artifactKey: Guid(feb4e677e7afc03429ca1c69ca33d783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/SimpleInput/Sprites/FlatDark/Joystick/flatDark00.png using Guid(feb4e677e7afc03429ca1c69ca33d783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80994b4516492b2b16f2455410819a8e') in 0.023479 seconds
+  Import took 0.029385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.496235 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_3.png
+  artifactKey: Guid(23ac5f8e898a05443a35b199c29a9c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_3.png using Guid(23ac5f8e898a05443a35b199c29a9c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79fc04217a2b008ff2ab5dacacbb8cb9') in 0.017108 seconds
+  Import took 0.024051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_7.png
+  artifactKey: Guid(9d127b2120b030346befbcad9a8c1077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_7.png using Guid(9d127b2120b030346befbcad9a8c1077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b263deb62880b8727bc9a2c0cab9dccd') in 0.018584 seconds
+  Import took 0.024168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_6.png
+  artifactKey: Guid(e3c5cb2a0bfd5604085db3e29edac584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_6.png using Guid(e3c5cb2a0bfd5604085db3e29edac584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c5973bb6a7f3c7de0ea3593eb094b78') in 0.022950 seconds
+  Import took 0.028721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_8.png
+  artifactKey: Guid(8a6c63cade8693c45884f4377cd0a89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_8.png using Guid(8a6c63cade8693c45884f4377cd0a89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f96abbaf6911bc01b3ee083c6b0f3e2') in 0.021816 seconds
+  Import took 0.028201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_5.png
+  artifactKey: Guid(87fe72c6e8805514ca46f203d8b48725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_5.png using Guid(87fe72c6e8805514ca46f203d8b48725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '163e3a8c08d0252032cdb1888541f9a2') in 0.021626 seconds
+  Import took 0.027268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_4.png
+  artifactKey: Guid(eef3123be2a25ee4bab9fe5d31ff576a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_4.png using Guid(eef3123be2a25ee4bab9fe5d31ff576a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6914fd03606b81fd2c910cfcd06753ce') in 0.028176 seconds
+  Import took 0.034744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.939292 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_9.png
+  artifactKey: Guid(93bb3312595edd643a7557678508fe5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_9.png using Guid(93bb3312595edd643a7557678508fe5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28421d2c2f73ca877be37076e90fed7d') in 0.019879 seconds
+  Import took 0.029511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_10.png
+  artifactKey: Guid(341713c16a8db804b96f2f39b52bc94f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_10.png using Guid(341713c16a8db804b96f2f39b52bc94f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b28cfd4c18a2c3c5cd923baa5c5193') in 0.018322 seconds
+  Import took 0.024018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side.png
+  artifactKey: Guid(9a3e606c4f6602446bb311febf91bd74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side.png using Guid(9a3e606c4f6602446bb311febf91bd74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ccd59cf35195112da41caa6ed5f0a2e') in 0.020883 seconds
+  Import took 0.026934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_stair.png
+  artifactKey: Guid(1e856064e743c8b45927951849599c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_stair.png using Guid(1e856064e743c8b45927951849599c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd58ff951e0746ad16e67cde74adf9df9') in 0.023731 seconds
+  Import took 0.029571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/flying creature/fly_anim_f0.png
+  artifactKey: Guid(219d3c9aa30122845bf5f70df59c642e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/flying creature/fly_anim_f0.png using Guid(219d3c9aa30122845bf5f70df59c642e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f7c9cd087a11d389e6a2bd66a1e9c8') in 0.017811 seconds
+  Import took 0.023654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side5.png
+  artifactKey: Guid(fc7ab3a3037b852408e0c1c4bce8b306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side5.png using Guid(fc7ab3a3037b852408e0c1c4bce8b306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9a26cf4fa973d60991ba63c86643964') in 0.020816 seconds
+  Import took 0.028191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/flying creature/fly_anim_spritesheet.png
+  artifactKey: Guid(a3a1fa53908f2584a8431a39fd82168f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/flying creature/fly_anim_spritesheet.png using Guid(a3a1fa53908f2584a8431a39fd82168f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450dbd3f5e6ebf20d43b55526feea43c') in 0.022522 seconds
+  Import took 0.028570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Textures/FlyerPlayershipOcclusion.tif
+  artifactKey: Guid(34b19bc20b665b240af9c0fc9d0086f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Textures/FlyerPlayershipOcclusion.tif using Guid(34b19bc20b665b240af9c0fc9d0086f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be163e6165e19142afd45ac3f820c269') in 0.017096 seconds
+  Import took 0.023168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/flying creature/fly_anim_f3.png
+  artifactKey: Guid(f9dfe726802ef974497133208419aa0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/flying creature/fly_anim_f3.png using Guid(f9dfe726802ef974497133208419aa0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57af98b4ba420b2246e3a4e1e0df9852') in 0.023035 seconds
+  Import took 0.029107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Textures/FlyerPlayershipAlbedo.tif
+  artifactKey: Guid(b28381ec2a3dce5459a8fd396a0eb560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Textures/FlyerPlayershipAlbedo.tif using Guid(b28381ec2a3dce5459a8fd396a0eb560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed576ce532e8c0a531f7994e3810954a') in 0.013297 seconds
+  Import took 0.020364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Fonts/CactusFlowerOpenSGOT-Regular/@font-face/caa4f8ac6d6fec114dc89bde2129f769.ttf
+  artifactKey: Guid(331934be31c876b4ea8048a897feb4aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/CactusFlowerOpenSGOT-Regular/@font-face/caa4f8ac6d6fec114dc89bde2129f769.ttf using Guid(331934be31c876b4ea8048a897feb4aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec14dd3ae67ee724fc27a5ea9c0ffed2') in 0.028335 seconds
+  Import took 0.034723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Textures/FlyerPlayershipEmission.tif
+  artifactKey: Guid(88217866776ce4c49944ecb360a5c6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Textures/FlyerPlayershipEmission.tif using Guid(88217866776ce4c49944ecb360a5c6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c69fc0e45861ee42f812a06f0b02ce14') in 0.015341 seconds
+  Import took 0.021186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Textures/FlyerAsteroidEmissive.tif
+  artifactKey: Guid(bfc02e2f0447eaf4190d17879193f0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Textures/FlyerAsteroidEmissive.tif using Guid(bfc02e2f0447eaf4190d17879193f0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6949d50cf9a61a51c0e4cd8ebcbe22be') in 0.010998 seconds
+  Import took 0.016611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/Orbitron Black.ttf
+  artifactKey: Guid(495c9e2a934bcc640a8d7427b13cb680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/Orbitron Black.ttf using Guid(495c9e2a934bcc640a8d7427b13cb680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1913f8dfd9df2e1abb3652ade2da2b7') in 0.016450 seconds
+  Import took 0.023916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/eurof35.ttf
+  artifactKey: Guid(954746d370bc8934299c8c8267543f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/eurof35.ttf using Guid(954746d370bc8934299c8c8267543f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db0c65c5365bae662bb47d24e375dae7') in 0.017048 seconds
+  Import took 0.024240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side4.png
+  artifactKey: Guid(1cd0adac66a1e264ab4fc9e0a08e8581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side4.png using Guid(1cd0adac66a1e264ab4fc9e0a08e8581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa05bb24aa3823117f9f49b28ea06cd') in 0.018239 seconds
+  Import took 0.023914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side_right.png
+  artifactKey: Guid(ffa4ba99f88f5ec43aa036d93a2e2661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side_right.png using Guid(ffa4ba99f88f5ec43aa036d93a2e2661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d40fd5d9914afbe7f74c16b81ed84c2') in 0.022225 seconds
+  Import took 0.028240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/flying creature/fly_anim_f2.png
+  artifactKey: Guid(821481fa8a85d5e4393662d8c2e9db03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/flying creature/fly_anim_f2.png using Guid(821481fa8a85d5e4393662d8c2e9db03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c91dd3e0ef9c0da557db41cd34469aa') in 0.018795 seconds
+  Import took 0.025095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side2.png
+  artifactKey: Guid(2b91b5750629ae64e80ce9d73c0fb380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side2.png using Guid(2b91b5750629ae64e80ce9d73c0fb380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a31850358f53811cbafd8965d3991f') in 0.019943 seconds
+  Import took 0.025826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side3.png
+  artifactKey: Guid(d775c59da8dea084a8f63d5c2908b7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side3.png using Guid(d775c59da8dea084a8f63d5c2908b7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c57f241146e9801dcfc0f6a42dffdf') in 0.021182 seconds
+  Import took 0.027664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side_left.png
+  artifactKey: Guid(763af86d521c49d4683a38313e30548e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/tiles/floor/floor_side_left.png using Guid(763af86d521c49d4683a38313e30548e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a81ce1f05f2e8bc3733b26e508680be') in 0.017720 seconds
+  Import took 0.023449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/flying creature/fly_anim_f1.png
+  artifactKey: Guid(2f01e3bc97eadc4489108175f0284d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/flying creature/fly_anim_f1.png using Guid(2f01e3bc97eadc4489108175f0284d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af5bab580f053f9c34bb87b8db0fd10e') in 0.020755 seconds
+  Import took 0.026384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Fonts/Minecraft font/MinecraftBold-nMK1.otf
+  artifactKey: Guid(36a6bbf8b16f2ed43a218a6aa6ee3b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Minecraft font/MinecraftBold-nMK1.otf using Guid(36a6bbf8b16f2ed43a218a6aa6ee3b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3be9aaca990f6c6868fd40c7e8ed03f3') in 0.021917 seconds
+  Import took 0.028735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/full tilemap.png
+  artifactKey: Guid(390c5f04cbc21be4a9cd8d98979daf19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/full tilemap.png using Guid(390c5f04cbc21be4a9cd8d98979daf19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12990e35386ec4f8fe86752f94155504') in 0.021685 seconds
+  Import took 0.027830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PSD/ghost-appears.psd
+  artifactKey: Guid(9113f6aa620cd4b46a96a0509f51ef0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PSD/ghost-appears.psd using Guid(9113f6aa620cd4b46a96a0509f51ef0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c2432a78ccb2c4fba8de9856c90c88') in 0.023177 seconds
+  Import took 0.029706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PSD/ghost-shriek.psd
+  artifactKey: Guid(8e5a85049a678fd40997ce2da726a8bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PSD/ghost-shriek.psd using Guid(8e5a85049a678fd40997ce2da726a8bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91650e2f5470e27a7499a2c520479f00') in 0.019814 seconds
+  Import took 0.025551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PNG/ghost-vanish.png
+  artifactKey: Guid(76b67739c6adc104a824952fa7ec7ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PNG/ghost-vanish.png using Guid(76b67739c6adc104a824952fa7ec7ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700c399104387252a5a2c59a36b48abb') in 0.019748 seconds
+  Import took 0.025940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Art/effects/glitch-screen-7.jpg
+  artifactKey: Guid(decaa5fc9220df54a9f6a2cc4bc5836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/effects/glitch-screen-7.jpg using Guid(decaa5fc9220df54a9f6a2cc4bc5836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e569d3719ca734bdd41bbe23935e5c') in 0.022112 seconds
+  Import took 0.028453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/characters/ghost-idle.png
+  artifactKey: Guid(11cf37a777faaa843aea06834322bc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/characters/ghost-idle.png using Guid(11cf37a777faaa843aea06834322bc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f5992f5931c9285e183b9c54d5c857f') in 0.033581 seconds
+  Import took 0.040187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Fonts/Minecraft font/MinecraftBoldItalic-1y1e.otf
+  artifactKey: Guid(8d5d7e64569251344ab99679bef0a829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Minecraft font/MinecraftBoldItalic-1y1e.otf using Guid(8d5d7e64569251344ab99679bef0a829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4dab0226f1073c2d494aa5bbff355c') in 0.016706 seconds
+  Import took 0.024362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/GIFS/ghost-appears.gif
+  artifactKey: Guid(31e8671aca6e2844782478c32fb3bf13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/GIFS/ghost-appears.gif using Guid(31e8671aca6e2844782478c32fb3bf13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8019d95189d12945973e3d779081ae87') in 0.016627 seconds
+  Import took 0.022661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PNG/ghost-appears.png
+  artifactKey: Guid(8a6df55282b63134bab03291fcf5b8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PNG/ghost-appears.png using Guid(8a6df55282b63134bab03291fcf5b8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '324e58f487dc13afeb6d88e5904eaa1a') in 0.019380 seconds
+  Import took 0.026166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Hell-Hound-Files/get-more.jpg
+  artifactKey: Guid(7a76b08cffaba934bae8130a060112d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Hell-Hound-Files/get-more.jpg using Guid(7a76b08cffaba934bae8130a060112d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f5aab8e154b5ef58c231b1290697bd') in 0.029817 seconds
+  Import took 0.035519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/GIFS/ghost-idle.gif
+  artifactKey: Guid(26640d750e5248048a7264081984f833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/GIFS/ghost-idle.gif using Guid(26640d750e5248048a7264081984f833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5a9283f818dd5b6f7a133ce6c01ae0') in 0.017853 seconds
+  Import took 0.023496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/full spritesheet.png
+  artifactKey: Guid(03925b43036496344ae89e515fd01ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/full spritesheet.png using Guid(03925b43036496344ae89e515fd01ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c67665de3aaf3dde6b13446ee5269146') in 0.029262 seconds
+  Import took 0.035615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PSD/ghost-vanish.psd
+  artifactKey: Guid(958f4376d8c2d3d428f2d4802849177d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PSD/ghost-vanish.psd using Guid(958f4376d8c2d3d428f2d4802849177d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8de1038bcf6edb54328a1180dd1061f2') in 0.017950 seconds
+  Import took 0.023787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PNG/ghost-shriek.png
+  artifactKey: Guid(10fdf7048ba907c4ea2becb9adb0dde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PNG/ghost-shriek.png using Guid(10fdf7048ba907c4ea2becb9adb0dde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2324b6568fad955bc66ed3503271da9c') in 0.019762 seconds
+  Import took 0.025745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Fonts/Minecraft font/MinecraftItalic-R8Mo.otf
+  artifactKey: Guid(d1ffe3a9a50c9a74aa9c8817459893eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Minecraft font/MinecraftItalic-R8Mo.otf using Guid(d1ffe3a9a50c9a74aa9c8817459893eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bc3287a36a16b3bd35637498095532') in 0.017821 seconds
+  Import took 0.023597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/GIFS/ghost-shriek.gif
+  artifactKey: Guid(8eb7367221fc6694fba808422e19ea66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/GIFS/ghost-shriek.gif using Guid(8eb7367221fc6694fba808422e19ea66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2604401c21718855d964589890bae4') in 0.014522 seconds
+  Import took 0.020378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/GIFS/ghost-vanish.gif
+  artifactKey: Guid(beb06d3460dd2b1439ba467a7fb0b02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/GIFS/ghost-vanish.gif using Guid(beb06d3460dd2b1439ba467a7fb0b02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd9b475f099a6db744bce388f881864') in 0.019798 seconds
+  Import took 0.025713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/Jura-Medium-LB.ttf
+  artifactKey: Guid(4a4df204c321f9c40b0dbfb1baaffb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/Jura-Medium-LB.ttf using Guid(4a4df204c321f9c40b0dbfb1baaffb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7e32c63ac364bd89ef6fbcdbc3120e') in 0.016373 seconds
+  Import took 0.022857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PSD/ghost-idle.psd
+  artifactKey: Guid(410cd16a4a3267b458c10324a8d08782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Ghost-Files/PSD/ghost-idle.psd using Guid(410cd16a4a3267b458c10324a8d08782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '886d28934217da0f7f10a7f91b6345a0') in 0.019217 seconds
+  Import took 0.024856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Fonts/Special_Elite/SpecialElite-Regular.ttf
+  artifactKey: Guid(acfc9f6e5f22baa4e8c5be8bd46918f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Special_Elite/SpecialElite-Regular.ttf using Guid(acfc9f6e5f22baa4e8c5be8bd46918f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c4896bb1085b40a97de34c46453557') in 0.021166 seconds
+  Import took 0.027954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/Jura-Medium.ttf
+  artifactKey: Guid(e00995507c2406448b4c8429136104dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/Jura-Medium.ttf using Guid(e00995507c2406448b4c8429136104dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b0cc7bb3da60975a04a653243cff85') in 0.015544 seconds
+  Import took 0.021553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.788265 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f0.png
+  artifactKey: Guid(857f4147f9d375e47a9703ff91304283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f0.png using Guid(857f4147f9d375e47a9703ff91304283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76052d0171e5c0dd14c70813059b908') in 0.020793 seconds
+  Import took 0.042684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f3.png
+  artifactKey: Guid(57dc28d4fb7333d41a7bef4a87133399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f3.png using Guid(57dc28d4fb7333d41a7bef4a87133399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c256020ebbe845fc5b45ec81bd5fec01') in 0.017925 seconds
+  Import took 0.024198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f5.png
+  artifactKey: Guid(db50d66d2103f0d4c84ba97ab28bf233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f5.png using Guid(db50d66d2103f0d4c84ba97ab28bf233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4572995894554bdf3049f36f892aea62') in 0.021124 seconds
+  Import took 0.027026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f2.png
+  artifactKey: Guid(0fc5f5e2870493948b210382e73d2b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f2.png using Guid(0fc5f5e2870493948b210382e73d2b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0b77eb4dc2d3a0cbee147b5fff04ef3') in 0.028322 seconds
+  Import took 0.034413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f1.png
+  artifactKey: Guid(ffda1f4ea8a3e33498adc8ed2d633ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f1.png using Guid(ffda1f4ea8a3e33498adc8ed2d633ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8d0db77874d6e2b7882f97bb854f30') in 0.022993 seconds
+  Import took 0.030371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f4.png
+  artifactKey: Guid(41ba431f2cbcd1a48946051e9e67d87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f4.png using Guid(41ba431f2cbcd1a48946051e9e67d87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e291df4f52787010b5755f04715c44') in 0.022748 seconds
+  Import took 0.028720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Gothic-Castle-Files/PNG/layers/gothic-castle-background.png
+  artifactKey: Guid(701586cc50d0ccd49bad93b97c0b8402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Gothic-Castle-Files/PNG/layers/gothic-castle-background.png using Guid(701586cc50d0ccd49bad93b97c0b8402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48dc97f03ceea11261738884e9753f7') in 0.023239 seconds
+  Import took 0.028818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_knife.png
+  artifactKey: Guid(21ac73ee29013ec4293a6a2450931ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_knife.png using Guid(21ac73ee29013ec4293a6a2450931ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29bd7b9dc89d1559e6a963d7d8cee159') in 0.021063 seconds
+  Import took 0.027885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Gothic-Castle-Files/PSD/gothic-castle.psd
+  artifactKey: Guid(76572bfdbb13ed545940f798d7fd2626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Gothic-Castle-Files/PSD/gothic-castle.psd using Guid(76572bfdbb13ed545940f798d7fd2626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deab751500cba2054fd93be4a7a93a90') in 0.023508 seconds
+  Import took 0.029941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Gothic-Castle-Files/PNG/gothic-castle-preview.png
+  artifactKey: Guid(76f900ba10dc68a45aa68753dd8374db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/gothicvania patreon collection/ gothicvania patreon collection/Gothic-Castle-Files/PNG/gothic-castle-preview.png using Guid(76f900ba10dc68a45aa68753dd8374db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5785eeec5955646980d29c5aa5b25138') in 0.021243 seconds
+  Import took 0.027635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_spritesheet.png
+  artifactKey: Guid(caaa5bad512e76048a789caec4bd81f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_spritesheet.png using Guid(caaa5bad512e76048a789caec4bd81f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a19998efa4917b82460d2431e0bf18a') in 0.019214 seconds
+  Import took 0.025332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f4.png
+  artifactKey: Guid(bc998e6c1bc3596448c46b75b6201884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f4.png using Guid(bc998e6c1bc3596448c46b75b6201884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c33d94c672f6723458fff040b617aca') in 0.020162 seconds
+  Import took 0.025942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f1.png
+  artifactKey: Guid(b3f56c44197c9f1468ff5a0352298e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f1.png using Guid(b3f56c44197c9f1468ff5a0352298e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0cac5a17773bd916513f57b474179c') in 0.022975 seconds
+  Import took 0.029047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f0.png
+  artifactKey: Guid(68a9484805ca3184b9e497c69a6cfd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f0.png using Guid(68a9484805ca3184b9e497c69a6cfd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab661816829fb5d3494474b42ec0db86') in 0.020555 seconds
+  Import took 0.026302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f5.png
+  artifactKey: Guid(d20d58776570db047900cda8eb3e69a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f5.png using Guid(d20d58776570db047900cda8eb3e69a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35d13366abd1b68377074079ba76bd8') in 0.022871 seconds
+  Import took 0.029132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f3.png
+  artifactKey: Guid(9ef844700c6c96f41a6d92a8338519d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_anim_f3.png using Guid(9ef844700c6c96f41a6d92a8338519d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0371092df1b76365e30f108d41297fd') in 0.019480 seconds
+  Import took 0.025312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f2.png
+  artifactKey: Guid(1ba83441ecaf49b4ab45a28df50ab5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_idle_anim_f2.png using Guid(1ba83441ecaf49b4ab45a28df50ab5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e995e687fdfe2a54b77607b5d3f4ee8') in 0.021253 seconds
+  Import took 0.028350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_spritesheet.png
+  artifactKey: Guid(2721498b13126ec4294757beb8f21664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/AssetPacks/v1.1 dungeon crawler 16x16 pixel pack/v1.1 dungeon crawler 16x16 pixel pack/enemies/goblin/goblin_run_spritesheet.png using Guid(2721498b13126ec4294757beb8f21664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ec373c15c5e5f06e321852285d300d') in 0.017865 seconds
+  Import took 0.023608 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004215 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.242 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3882.
+Total: 3.244000 ms (FindLiveObjects: 0.330400 ms CreateObjectMapping: 0.262200 ms MarkObjects: 2.471700 ms  DeleteObjects: 0.178700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.139 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3887.
+Total: 3.045200 ms (FindLiveObjects: 0.366400 ms CreateObjectMapping: 0.197200 ms MarkObjects: 2.330200 ms  DeleteObjects: 0.150300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.042864 seconds.
+  path: Assets/Rendering/Global Volume Profile.asset
+  artifactKey: Guid(f8779160b18193f479dd300f980bb5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rendering/Global Volume Profile.asset using Guid(f8779160b18193f479dd300f980bb5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d84f17354ba5aba5cfb353f7ef156e2') in 0.031367 seconds
+  Import took 0.037375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.606348 seconds.
+  path: Assets/Art/environment
+  artifactKey: Guid(10758dfd54b23404faca7bfff400e123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/environment using Guid(10758dfd54b23404faca7bfff400e123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f6028bc9b32509e82d072d83521daa') in 0.008821 seconds
+  Import took 0.015780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.923203 seconds.
+  path: Assets/Art/effects
+  artifactKey: Guid(6ef22fb8e033292478a018e1cedee6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/effects using Guid(6ef22fb8e033292478a018e1cedee6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe658cea3107a11450501b97ee8c47f') in 0.010838 seconds
+  Import took 0.018387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199844 seconds.
+  path: Assets/Art/effects/glitch-screen-7.jpg
+  artifactKey: Guid(decaa5fc9220df54a9f6a2cc4bc5836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/effects/glitch-screen-7.jpg using Guid(decaa5fc9220df54a9f6a2cc4bc5836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7528a9ea97a2b269a1d2618dbe585dfa') in 0.050533 seconds
+  Import took 0.058997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Art/effects/inline_image_preview.jpg
+  artifactKey: Guid(65c54450cb680b747a630e06b46866c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/effects/inline_image_preview.jpg using Guid(65c54450cb680b747a630e06b46866c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '378365c412b291b15b822ec8780054a3') in 0.032313 seconds
+  Import took 0.040094 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007856 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.276 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3894.
+Total: 5.072900 ms (FindLiveObjects: 0.381400 ms CreateObjectMapping: 0.327500 ms MarkObjects: 4.191500 ms  DeleteObjects: 0.170900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.448327 seconds.
+  path: Assets/Art/effects/glitch-screen-7.jpg
+  artifactKey: Guid(decaa5fc9220df54a9f6a2cc4bc5836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/effects/glitch-screen-7.jpg using Guid(decaa5fc9220df54a9f6a2cc4bc5836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98d298b9c7448d29ccbe40ad7174672c') in 0.097994 seconds
+  Import took 0.106376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Art/effects/12.jpg
+  artifactKey: Guid(59831a0baebe0c548a82c31ebd3ac0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/effects/12.jpg using Guid(59831a0baebe0c548a82c31ebd3ac0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44c7953b373fe99018b353b5bd0b7827') in 0.015619 seconds
+  Import took 0.021991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Art/effects/11.jpg
+  artifactKey: Guid(7e8f0b3f04c1c3247898f761cdfe7fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/effects/11.jpg using Guid(7e8f0b3f04c1c3247898f761cdfe7fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd61e2aea0576d37ef0a23f09cf93b8') in 0.021752 seconds
+  Import took 0.028232 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.618 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3900.
+Total: 4.533300 ms (FindLiveObjects: 0.456200 ms CreateObjectMapping: 0.267100 ms MarkObjects: 3.045600 ms  DeleteObjects: 0.762400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004037 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.225 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3905.
+Total: 3.654200 ms (FindLiveObjects: 0.389100 ms CreateObjectMapping: 0.220200 ms MarkObjects: 2.821900 ms  DeleteObjects: 0.221600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 456.091876 seconds.
+  path: Assets/Rendering/Global Volume Profile.asset
+  artifactKey: Guid(f8779160b18193f479dd300f980bb5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rendering/Global Volume Profile.asset using Guid(f8779160b18193f479dd300f980bb5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b3852ffcc5bca8f9f33e2aed13a176b') in 0.031891 seconds
+  Import took 0.039613 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004205 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.256 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3910.
+Total: 11.100800 ms (FindLiveObjects: 0.968100 ms CreateObjectMapping: 0.607100 ms MarkObjects: 8.994700 ms  DeleteObjects: 0.526500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004215 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.176 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3915.
+Total: 3.161400 ms (FindLiveObjects: 0.356900 ms CreateObjectMapping: 0.185300 ms MarkObjects: 2.467600 ms  DeleteObjects: 0.150400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3720.509512 seconds.
+  path: Assets/Scenes/Stages/Hallway 1.unity
+  artifactKey: Guid(081fc0d6fecae36419ebb1f94e89cbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stages/Hallway 1.unity using Guid(081fc0d6fecae36419ebb1f94e89cbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8343ff8228e65ca773068ee9d9dc50') in 0.023508 seconds
+  Import took 0.029507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.951363 seconds.
+  path: Assets/Scenes/Stages/Stage 3.unity
+  artifactKey: Guid(22e696d8400429846b1ea6b09088371a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stages/Stage 3.unity using Guid(22e696d8400429846b1ea6b09088371a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26b5d31e3a5e64f6334790a9156d6fb') in 0.008579 seconds
+  Import took 0.016474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.030742 seconds.
+  path: Assets/Scenes/Menus/GameEnd.unity
+  artifactKey: Guid(a564cae38a15bcb4681fc22a988729ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menus/GameEnd.unity using Guid(a564cae38a15bcb4681fc22a988729ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4020d6d5487193fb9fdcbe556eabdc1') in 0.009112 seconds
+  Import took 0.015924 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004132 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.180 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3920.
+Total: 3.145200 ms (FindLiveObjects: 0.398600 ms CreateObjectMapping: 0.221000 ms MarkObjects: 2.356800 ms  DeleteObjects: 0.167500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.587 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.2 MB.
+System memory in use after: 142.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3925.
+Total: 4.312100 ms (FindLiveObjects: 0.449900 ms CreateObjectMapping: 0.231700 ms MarkObjects: 3.457900 ms  DeleteObjects: 0.170900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 189.855281 seconds.
+  path: Assets/Scenes/Stages/Stage 1.unity
+  artifactKey: Guid(e6c8ef84f2cc97f43a75998eea91c8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stages/Stage 1.unity using Guid(e6c8ef84f2cc97f43a75998eea91c8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e534123cfe4dd0a832ed4c903af77168') in 0.031741 seconds
+  Import took 0.039686 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003890 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.2 MB.
+System memory in use after: 142.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3930.
+Total: 5.795200 ms (FindLiveObjects: 0.433900 ms CreateObjectMapping: 0.232100 ms MarkObjects: 4.927000 ms  DeleteObjects: 0.200700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 525.189254 seconds.
+  path: Assets/Scenes/Stages/Stage 3.unity
+  artifactKey: Guid(22e696d8400429846b1ea6b09088371a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stages/Stage 3.unity using Guid(22e696d8400429846b1ea6b09088371a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f765fc8893b75e70589663e02a6d102') in 0.032843 seconds
+  Import took 0.041419 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004664 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.381 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.2 MB.
+System memory in use after: 142.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3935.
+Total: 3.234500 ms (FindLiveObjects: 0.346800 ms CreateObjectMapping: 0.174800 ms MarkObjects: 2.550800 ms  DeleteObjects: 0.160900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

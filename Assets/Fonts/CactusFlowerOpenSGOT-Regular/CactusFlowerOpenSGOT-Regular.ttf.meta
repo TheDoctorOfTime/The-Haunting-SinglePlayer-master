@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ee58f5955ca3df041864a3bf0cddfbe3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - CactusFlowerOpenSGOT-Regular
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 331934be31c876b4ea8048a897feb4aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

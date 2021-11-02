@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/PhotonSetup/Opening.unity
+    guid: 4269e675e2818c14794dfd397e366c4d
+  - enabled: 0
+    path: Assets/Scenes/PhotonSetup/Lobby.unity
+    guid: 950ec7fd33733fe41b86133145c69cf3
+  - enabled: 1
+    path: Assets/Scenes/PhotonSetup/SingleMenu.unity
+    guid: 0a93ad651858c4a45be1822805aff88b
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage 1.unity
+    guid: e6c8ef84f2cc97f43a75998eea91c8d4
+  - enabled: 1
+    path: Assets/Scenes/Stages/Hallway 1.unity
+    guid: 081fc0d6fecae36419ebb1f94e89cbd8
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage 2.unity
+    guid: d093fb5e05ce5cc49888f81ffd28ab9e
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage 3.unity
+    guid: 22e696d8400429846b1ea6b09088371a
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage 4.unity
+    guid: f48792402c7cfa746b75de12e60ee95a
+  - enabled: 1
+    path: Assets/Scenes/Stages/Ending.unity
+    guid: 085c3bc3ecc5f6e4b9068b0213fdc33b
+  - enabled: 1
+    path: Assets/Scenes/Menus/GameEnd.unity
+    guid: a564cae38a15bcb4681fc22a988729ff
+  - enabled: 1
+    path: Assets/Scenes/Jumpscares/JumpScare.unity
+    guid: 9973b1a32f1537645a5f05cee0c110bc
+  - enabled: 1
+    path: Assets/Scenes/Jumpscares/NurseJS.unity
+    guid: 9a5157dc57293cb4f8f546beeddf1779
+  m_configObjects: {}

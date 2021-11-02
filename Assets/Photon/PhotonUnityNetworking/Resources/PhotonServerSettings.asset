@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 0d181e47-abfb-4c2a-a278-80f9e2dc8506
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: 
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - GiveSyringe
+  - HidePlayer
+  - PlayFinger
+  - playSound
+  - QuickTimeSedation
+  - StartNurseTimer
+  - StopHiding
+  - toggleInteraction
+  - TriggerDeath
+  - UseFunction
+  - GoTo1
+  - NewSceneLoaded
+  - QuicktimeAction
+  - Shiding
+  - tDisSet
+  - timerMove
+  - GoNext
+  - startRoom
+  - GotoJumpscare
+  - GotoNextRoom
+  - GotoJ
+  - GotoNR
+  - unlockDoor
+  - UD
+  - GoNext2
+  - NewSceneLoaded2
+  - UnlockDoor
+  - showDoorLock
+  - ResetNSL
+  - GotoNextR
+  - GiveFiles
+  - GiveMidozalam
+  - TriggerDeath2
+  - GMidozalam
+  - showObjective
+  - UDoor_RPC
+  - DestroySelf
+  - GN3
+  - GoNext3
+  - Load3
+  - LoadNurseJS
+  - RPC_DestroySelf
+  - StartJumpscare
+  - GameEnding
+  - GN4
+  - GN4End
+  - GoNext4
+  - GoNurseJS
+  - TriggerEnding
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1
